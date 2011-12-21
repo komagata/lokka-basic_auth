@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Masaki Komagata"]
   s.email       = ["komagata@gmail.com"]
   s.homepage    = "http://lokka.org/"
-  s.summary     = %q{Basic Authentication Lokka Plugin.}
-  s.description = %q{Basic Authentication Lokka Plugin.}
+  s.summary     = %q{Basic authentication plugin for Lokka.}
+  s.description = %q{Basic authentication plugin for Lokka.}
 
   s.rubyforge_project = "lokka-basic_auth"
 
