@@ -1,4 +1,4 @@
-require "lokka/version"
+require "lokka/basic_auth/version"
 
 module Lokka
   module BasicAuth
